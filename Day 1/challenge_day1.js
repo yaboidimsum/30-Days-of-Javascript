@@ -19,7 +19,7 @@
 // let firstName;
 // let lastName;
 // let country;
-// let crush;
+// let alias;
 
 // 7. Declare four variables with assigned values
 
