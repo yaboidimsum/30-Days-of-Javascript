@@ -1,0 +1,1 @@
+ath.floor(itCompanies.length / 2)
